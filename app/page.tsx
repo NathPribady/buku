@@ -81,7 +81,7 @@ export default function MerdekaBukuLanding() {
                   <div className="space-y-3 text-sm">
                     <div className="flex justify-between items-center p-3 bg-background rounded-lg">
                       <span>Tier 1 (Ebook Gratis)</span>
-                      <span className="font-semibold text-primary">Rp10K-100K</span>
+                      <span className="font-semibold text-primary">Rp5K-100K</span>
                     </div>
                     <div className="flex justify-between items-center p-3 bg-background rounded-lg">
                       <span>Tier 2 (1 Buku Fisik + Ebook Gratis)</span>
@@ -328,7 +328,7 @@ export default function MerdekaBukuLanding() {
                 <div className="space-y-2 text-sm">
                   <div className="flex justify-between">
                     <span>Tier 1 (Ebook Gratis)</span>
-                    <span className="font-semibold">Rp10K-100K</span>
+                    <span className="font-semibold">Rp5K-100K</span>
                   </div>
                   <div className="flex justify-between">
                     <span>Tier 2 (1 Buku Fisik + Ebook Gratis)</span>
